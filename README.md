@@ -1,2 +1,2 @@
-# microdrop-renderer
+# @microdrop/renderer
 Microdrop Renderer for JupyterLab
